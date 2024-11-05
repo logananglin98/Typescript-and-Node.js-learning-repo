@@ -1,0 +1,12 @@
+{
+  "name": "typescript-and-node.js-learning-repo",
+  "version": "1.0.0",
+  "description": "This repo is my way of learning TypeScript and how to integrate it with Node.js for building an exe. Using this for a final project in a computer security class. Feel free to use as a reference!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
